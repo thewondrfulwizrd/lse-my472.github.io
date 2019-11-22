@@ -13,6 +13,7 @@ After the new API changes, getting a new token requires submitting an applicatio
 
 This will not work in your computer!
 
+
 ```{r}
 library(ROAuth)
 load("~/my_oauth")
